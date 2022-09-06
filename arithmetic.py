@@ -10,6 +10,7 @@ def summation(a,b):
 var_b = 'please enter value'
 
 sum.summation(var_a,var_b)
+subraction(var_a,var_b)
   
 
   
