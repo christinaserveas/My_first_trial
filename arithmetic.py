@@ -5,5 +5,7 @@ def summation(a,b):
   def subraction(d-e)
   f = d-e
   print(f)
+  type(f)
+  type(c)
   
   
