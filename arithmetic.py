@@ -6,6 +6,11 @@ def summation(a,b):
   f = d-e
   print(f)
   
+ var_a = 'please enter value '
+var_b = 'please enter value'
+
+sum.summation(var_a,var_b)
+  
 
   
   
