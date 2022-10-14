@@ -1,4 +1,1 @@
-# My_first_trial
-"Hello_world"
-"im learning pull function with stash & pop up"
-"hello"
+Beginner Level Codes
